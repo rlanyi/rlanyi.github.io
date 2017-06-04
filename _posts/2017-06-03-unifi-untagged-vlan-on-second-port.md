@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to configure untagged port on the second port of a Unifi UAP-Outdoor+ AP?
+title: How to configure untagged interface on the second port of a Unifi UAP-Outdoor+ AP?
 ---
 
 {% highlight shell %}
