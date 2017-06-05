@@ -4,6 +4,7 @@ permalink:           pretty
 # Setup
 title:               rlanyi
 tagline:             today i learned
+description:         I'm rlanyi, also known as Alki and this is my repo of handy stuff that I learned today. And yesterday.
 url:                 https://rlanyi.github.io/
 paginate:            2
 baseurl:             ""
