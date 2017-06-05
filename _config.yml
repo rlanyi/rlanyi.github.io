@@ -22,6 +22,15 @@ author:
   url:               https://rlanyi.github.io/
   email:             lanyi.robert.attila@gmail.com
 
+sitemap:
+    filename: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
 # Custom vars
 version:             2.0.0
 github:
