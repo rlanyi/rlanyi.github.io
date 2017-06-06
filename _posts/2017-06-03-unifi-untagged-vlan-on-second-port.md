@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to configure untagged VLAN interface on the second port of a Unifi UAP-Outdoor+ AP?
+category: Networking
 ---
 
 {% highlight shell %}
